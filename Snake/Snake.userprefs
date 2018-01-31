@@ -1,13 +1,12 @@
 ﻿<Properties StartupConfiguration="{F848D0B0-B0B8-4AF1-92A6-2DDCB99B0AB4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HorizontalLine.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Snake.cs">
     <Files>
-<<<<<<< Updated upstream
-      <File FileName="Program.cs" Line="20" Column="13" />
+      <File FileName="Program.cs" Line="21" Column="40" />
       <File FileName="Point.cs" Line="9" Column="9" />
-      <File FileName="HorizontalLine.cs" Line="8" Column="9" />
+      <File FileName="HorizontalLine.cs" Line="1" Column="1" />
       <File FileName="VerticalLine.cs" Line="1" Column="1" />
-      <File FileName="Figure.cs" Line="1" Column="1" />
-
+      <File FileName="Direction.cs" Line="9" Column="6" />
+      <File FileName="Snake.cs" Line="4" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
