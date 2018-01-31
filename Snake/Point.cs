@@ -35,6 +35,12 @@ namespace Snake
             }
         }
 
+        public void Delete()
+        {
+            sym = ' ';
+            Draw();
+        }
+
         public void Draw(){
             Console.SetCursorPosition(x,y);
             Console.Write(sym);
