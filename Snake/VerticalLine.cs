@@ -3,9 +3,8 @@ using System.Collections.Generic;
 
 namespace Snake
 {
-    public class VerticalLine
+    public class VerticalLine : Figure
     {
-        List<Point> pList;
         public VerticalLine(int yTop, int yBottom, int x, char sym)
         {
             pList = new List<Point>();
@@ -14,10 +13,5 @@ namespace Snake
             }
         }
 
-        public void Draw(){
-            foreach (Point p in pList){
-                p.Draw();
-            }
-        }
     }
 }
