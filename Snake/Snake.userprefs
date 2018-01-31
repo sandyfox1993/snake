@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{F848D0B0-B0B8-4AF1-92A6-2DDCB99B0AB4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Point.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VerticalLine.cs">
     <Files>
-      <File FileName="Program.cs" Line="23" Column="18" />
-      <File FileName="Point.cs" Line="6" Column="20" />
+      <File FileName="Program.cs" Line="18" Column="13" />
+      <File FileName="Point.cs" Line="9" Column="9" />
+      <File FileName="HorizontalLine.cs" Line="22" Column="26" />
+      <File FileName="VerticalLine.cs" Line="6" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
