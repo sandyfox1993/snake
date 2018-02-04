@@ -37,6 +37,18 @@ namespace Snake
             return head;
         }
 
+        public bool eatFood(Point newFood)
+        {
+            Point head = GetNextHead();
+            if (head.isHit(newFood)){
+                newFood.sym = head.sym;
+                pList.Add(newFood);
+                return true;
+            };
+            return false;
+
+        }
+
         public void HandleKey(ConsoleKey key){
             if (key == ConsoleKey.UpArrow)
             {
