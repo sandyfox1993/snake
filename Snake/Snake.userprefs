@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{F848D0B0-B0B8-4AF1-92A6-2DDCB99B0AB4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Snake.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Figure.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="FoodCreator.cs" Line="4" Column="29" />
-      <File FileName="Point.cs" Line="5" Column="6" />
-      <File FileName="Snake.cs" Line="9" Column="30" />
+      <File FileName="Program.cs" Line="24" Column="54" />
+      <File FileName="FoodCreator.cs" Line="21" Column="10" />
+      <File FileName="Point.cs" Line="1" Column="1" />
+      <File FileName="Snake.cs" Line="38" Column="32" />
+      <File FileName="Walls.cs" Line="26" Column="21" />
+      <File FileName="HorizontalLine.cs" Line="8" Column="48" />
+      <File FileName="Figure.cs" Line="18" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
