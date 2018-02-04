@@ -30,6 +30,15 @@ namespace Snake
             head.Draw();
         }
 
+        public bool isHitTail()
+        {
+            Point head = GetNextHead();
+            if (base.isHit(head)){
+                return true;
+            }
+            return false;
+        }
+
         private Point GetNextHead()
         {
             Point head = new Point(pList[pList.Count - 1]);
